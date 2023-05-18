@@ -20,7 +20,7 @@ Augmentation işlemi sonucunda 1221 görsel elde edilmiştir ve bu görseller YO
 
 ![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/master/deger_tablosu.PNG)
 
-![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/master/ki%C5%9Fi_tespiti.PNG)
+![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/master/kisi_tespiti.PNG)
 
 ### Veri İletişimi Katmanı
 
