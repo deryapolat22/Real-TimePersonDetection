@@ -18,3 +18,10 @@ Toplamda 467 görselden oluşan 3 farklı sınıfımız bulunmaktadır: "Person"
 
 Augmentation işlemi sonucunda 1221 görsel elde edilmiştir ve bu görseller YOLO algoritmasının versiyon 5 modeli kullanılarak eğitilmiştir.
 
+### Veri İletişimi Katmanı
+
+MQTT (Message Queuing Telemetry Transport) protokolü kullanılmıştır.
+
+## Web Arayüz ve Firebase Katmanı
+
+MQTT tarafından web arayüzüne gönderilmiş olan “İnsan tespit edildi” veya “İnsan tespit edilemedi.” çıktıları kişilerin görüntüleyebilecekleri bir platforma aktarmış olmayı sağlıyor. Web arayüzümüzü tasarlarken Flask frameworku ve Python programlama dili kullanıldı.
