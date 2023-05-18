@@ -18,7 +18,7 @@ Toplamda 467 görselden oluşan 3 farklı sınıfımız bulunmaktadır: "Person"
 
 Augmentation işlemi sonucunda 1221 görsel elde edilmiştir ve bu görseller YOLO algoritmasının versiyon 5 modeli kullanılarak eğitilmiştir.
 
-![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/main/deger_tablosu.PNG)
+![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/master/deger_tablosu.PNG)
 ### Veri İletişimi Katmanı
 
 MQTT (Message Queuing Telemetry Transport) protokolü kullanılmıştır.
