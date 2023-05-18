@@ -30,3 +30,7 @@ MQTT (Message Queuing Telemetry Transport) protokolü kullanılmıştır.
 ## Web Arayüz ve Firebase Katmanı
 
 MQTT tarafından web arayüzüne gönderilmiş olan “İnsan tespit edildi” veya “İnsan tespit edilemedi.” çıktıları kişilerin görüntüleyebilecekleri bir platforma aktarmış olmayı sağlıyor. Web arayüzümüzü tasarlarken Flask frameworku ve Python programlama dili kullanıldı.
+
+![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/master/aray%C3%BCz.PNG)
+
+
