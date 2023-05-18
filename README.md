@@ -25,6 +25,7 @@ Augmentation işlemi sonucunda 1221 görsel elde edilmiştir ve bu görseller YO
 ### Veri İletişimi Katmanı
 
 MQTT (Message Queuing Telemetry Transport) protokolü kullanılmıştır.
+![Verimlilik Oranı Değer Tabloları](https://github.com/deryapolatt/Real-TimePersonDetection/blob/master/mqqt_calisma_sekli.PNG)
 
 ## Web Arayüz ve Firebase Katmanı
 
